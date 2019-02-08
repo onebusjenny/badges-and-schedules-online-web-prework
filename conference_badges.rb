@@ -1,5 +1,5 @@
 def badge_maker(array)
-  array= 
+  array= ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
   
   
   
